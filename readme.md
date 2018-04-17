@@ -58,5 +58,10 @@ https://nlu.rasa.com/tutorial.html#using-your-model
 
 Note, a new model will be trained on part of the data for every crossvalidation loop
 
+### Usar el modelo de forma interactiva sin servidor http.
+
+* `python test_interactive.py`
+
+
 
 
